@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: rgb(253, 253, 255);
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+color: blueviolet;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h4{
+    color: rgb(3, 199, 253); 
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
